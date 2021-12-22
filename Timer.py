@@ -10,7 +10,7 @@ def timer(x):
         h = int(s[0])
     except:
         print('')
-        print('MISINPUT (input example: 0:0:10)')
+        print('MISSINPUT (input example: 0:0:10)')
         exit()
 
     #too big values fix
